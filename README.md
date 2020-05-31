@@ -6,8 +6,8 @@ This module provides a package of Matlab functions to derived SPM and associated
 
 # Setting the input data 
 
-To make easier the understanding of the algorithm package, a sample of water-leaving reflectance (RW) its standard deviation, wavelengths, and  field meadured SPM was set: sample_data.mat 
-
+To make easier the understanding of the algorithm package, a sample of water-leaving reflectance (RW) its standard deviation, wavelengths, and  field meadured SPM was set: sample_data.mat. 
+In addition the function 'RW2SPM.m' calls all the input information necessary and the sequence of functions to run the scripts.
 
 Because radiometric field measurements are most likely to be made available as water-leaving reflectance (RW) we suggest the use of the function 'RW2rrs.m' to convert the measured water-leaving reflectance (RW) to below water remote sensing reflectance (rrs). 
 
