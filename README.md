@@ -13,6 +13,6 @@ Because radiometric field measurements are most likely to be made available as w
 
 In sequence the inputs necessary for for the main function 'MW_algorithm.m' are the ranges of shape parameters (S and Y) and the mass-specific coefficientes (a_nap at 443 nm, a_nap at 750 nm, and b_bp at 700 nm), the temperature at which RW was measured, and the saturation threshold (Q_filter)
 
-# Questions and SUggestions
+# Questions and Suggestions
 
 For questions regarding the script implementation or to suggest changes to improve its functionality, please contact. juliana.tavora@maine.edu
