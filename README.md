@@ -15,6 +15,8 @@ In sequence the inputs necessary for for the main function 'MW_algorithm.m' are 
 
 The 'MW_algorithm.m' function will run in two steps: the first step estimating SPM and uncertaintyes and the second step constraining shape parameter and mass-specific coefficients.
 
+For use applied to satellite remote sensors find: https://github.com/OceanOptics/MW_algorithm_satellite/
+
 # Questions and Suggestions
 
-For questions regarding the script implementation or to suggest changes to improve its functionality, please contact Juliana Tavora at juliana.tavora@maine.edu
+For questions regarding the script implementation or to suggest changes to improve its functionality, please contact Juliana Tavora at juliana.tavora@maine.edu; j.tavora@utwente.nl
